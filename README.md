@@ -30,8 +30,8 @@
 
 # 📖 Fullstack - Rails Backend <a name="about-project"></a>
 
-**Fullstack - Rails Backend** is an api for fullstack app that have 5 greetings
-
+**Fullstack - Rails Backend** is a backend project for fullstack app that have 5 greetings
+This is the link to the [frontend](https://github.com/ichsansandy/react-two-apps)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
